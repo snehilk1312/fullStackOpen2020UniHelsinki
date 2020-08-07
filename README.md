@@ -5,7 +5,7 @@ This part explains fundamental working of web apps and the basic technologies be
 
 ### Part 1
 This part contains exercises of Part 1 - Introduction to React .<br />
-    -->anecdotes <br/>
-    -->courseinfo <br />
-    -->unicafe <br />
+    -->  anecdotes <br/>
+    -->  courseinfo <br />
+    -->  unicafe <br />
 
